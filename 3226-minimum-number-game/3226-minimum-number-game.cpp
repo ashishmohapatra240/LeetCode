@@ -1,12 +1,17 @@
 class Solution {
 public:
     vector<int> numberGame(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
+        priority_queue<int, vector<int>, greater<int>> pq(nums.begin(), nums.end());
         vector<int> arr;
-        int n = nums.size();
-        for (int i = 0; i < n / 2; ++i) {
-            arr.push_back(nums[2 * i + 1]);
-            arr.push_back(nums[2 * i]);
+        while (!pq.empty()) {
+            int alice = pq.top();
+            pq.pop();
+            if (pq.empty())
+                break;
+            int bob = pq.top();
+            pq.pop();
+            arr.push_back(bob);
+            arr.push_back(alice);
         }
         return arr;
     }
