@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ashishmohapatra240/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/ashishmohapatra240/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ashishmohapatra240/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/ashishmohapatra240/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
