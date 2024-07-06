@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/ashishmohapatra240/LeetCode/tree/master/0039-combination-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashishmohapatra240/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/ashishmohapatra240/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ashishmohapatra240/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/ashishmohapatra240/LeetCode/tree/master/2645-pass-the-pillow) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/ashishmohapatra240/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
