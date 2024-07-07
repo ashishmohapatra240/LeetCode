@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/ashishmohapatra240/LeetCode/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ashishmohapatra240/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/ashishmohapatra240/LeetCode/tree/master/2645-pass-the-pillow) |
 ## String
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/ashishmohapatra240/LeetCode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/ashishmohapatra240/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Backtracking
 |  |
