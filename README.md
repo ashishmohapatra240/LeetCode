@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashishmohapatra240/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ashishmohapatra240/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ashishmohapatra240/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Math
@@ -96,5 +97,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashishmohapatra240/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ashishmohapatra240/LeetCode/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
