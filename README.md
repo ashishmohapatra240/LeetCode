@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ashishmohapatra240/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/ashishmohapatra240/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashishmohapatra240/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/ashishmohapatra240/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ashishmohapatra240/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ashishmohapatra240/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/ashishmohapatra240/LeetCode/tree/master/0040-combination-sum-ii) |
 ## Queue
 |  |
 | ------- |
