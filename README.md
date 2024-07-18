@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ashishmohapatra240/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ashishmohapatra240/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/ashishmohapatra240/LeetCode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/ashishmohapatra240/LeetCode/tree/master/0090-subsets-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashishmohapatra240/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ashishmohapatra240/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ashishmohapatra240/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ashishmohapatra240/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/ashishmohapatra240/LeetCode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/ashishmohapatra240/LeetCode/tree/master/0090-subsets-ii) |
 ## Queue
 |  |
