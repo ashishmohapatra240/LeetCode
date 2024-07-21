@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ashishmohapatra240/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ashishmohapatra240/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ashishmohapatra240/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/ashishmohapatra240/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2846-robot-collisions](https://github.com/ashishmohapatra240/LeetCode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ashishmohapatra240/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ashishmohapatra240/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ashishmohapatra240/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/ashishmohapatra240/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3055-maximum-odd-binary-number](https://github.com/ashishmohapatra240/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 ## Simulation
 |  |
