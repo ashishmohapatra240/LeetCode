@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ashishmohapatra240/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ashishmohapatra240/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ashishmohapatra240/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ashishmohapatra240/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0726-number-of-atoms](https://github.com/ashishmohapatra240/LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashishmohapatra240/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ashishmohapatra240/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1720-crawler-log-folder](https://github.com/ashishmohapatra240/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ashishmohapatra240/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ashishmohapatra240/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashishmohapatra240/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ashishmohapatra240/LeetCode/tree/master/1013-fibonacci-number) |
+## Counting
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/ashishmohapatra240/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
