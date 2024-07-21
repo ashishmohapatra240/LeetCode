@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ashishmohapatra240/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ashishmohapatra240/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ashishmohapatra240/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3055-maximum-odd-binary-number](https://github.com/ashishmohapatra240/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 ## Simulation
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/ashishmohapatra240/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ashishmohapatra240/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ashishmohapatra240/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3055-maximum-odd-binary-number](https://github.com/ashishmohapatra240/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 ## Math
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ashishmohapatra240/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ashishmohapatra240/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2645-pass-the-pillow](https://github.com/ashishmohapatra240/LeetCode/tree/master/2645-pass-the-pillow) |
+| [3055-maximum-odd-binary-number](https://github.com/ashishmohapatra240/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 ## Backtracking
 |  |
 | ------- |
