@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashishmohapatra240/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/ashishmohapatra240/LeetCode/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ashishmohapatra240/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ashishmohapatra240/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2846-robot-collisions](https://github.com/ashishmohapatra240/LeetCode/tree/master/2846-robot-collisions) |
 ## Linked List
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ashishmohapatra240/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ashishmohapatra240/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ashishmohapatra240/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ashishmohapatra240/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/ashishmohapatra240/LeetCode/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/ashishmohapatra240/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ashishmohapatra240/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ashishmohapatra240/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2645-pass-the-pillow](https://github.com/ashishmohapatra240/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Backtracking
 |  |
