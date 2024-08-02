@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ashishmohapatra240/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ashishmohapatra240/LeetCode/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/ashishmohapatra240/LeetCode/tree/master/0090-subsets-ii) |
+| [0198-house-robber](https://github.com/ashishmohapatra240/LeetCode/tree/master/0198-house-robber) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashishmohapatra240/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0948-sort-an-array](https://github.com/ashishmohapatra240/LeetCode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/ashishmohapatra240/LeetCode/tree/master/1196-filling-bookcase-shelves) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashishmohapatra240/LeetCode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/ashishmohapatra240/LeetCode/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/ashishmohapatra240/LeetCode/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/ashishmohapatra240/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ashishmohapatra240/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
