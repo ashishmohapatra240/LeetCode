@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/ashishmohapatra240/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ashishmohapatra240/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2502-sort-the-people](https://github.com/ashishmohapatra240/LeetCode/tree/master/2502-sort-the-people) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashishmohapatra240/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ashishmohapatra240/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2502-sort-the-people](https://github.com/ashishmohapatra240/LeetCode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/ashishmohapatra240/LeetCode/tree/master/2846-robot-collisions) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashishmohapatra240/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ashishmohapatra240/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ashishmohapatra240/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3055-maximum-odd-binary-number](https://github.com/ashishmohapatra240/LeetCode/tree/master/3055-maximum-odd-binary-number) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashishmohapatra240/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/ashishmohapatra240/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3055-maximum-odd-binary-number](https://github.com/ashishmohapatra240/LeetCode/tree/master/3055-maximum-odd-binary-number) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ashishmohapatra240/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashishmohapatra240/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ashishmohapatra240/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ashishmohapatra240/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
