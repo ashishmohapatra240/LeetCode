@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ashishmohapatra240/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0273-integer-to-english-words](https://github.com/ashishmohapatra240/LeetCode/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/ashishmohapatra240/LeetCode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ashishmohapatra240/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Greedy
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/ashishmohapatra240/LeetCode/tree/master/0091-decode-ways) |
+| [0273-integer-to-english-words](https://github.com/ashishmohapatra240/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0726-number-of-atoms](https://github.com/ashishmohapatra240/LeetCode/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ashishmohapatra240/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ashishmohapatra240/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ashishmohapatra240/LeetCode/tree/master/0070-climbing-stairs) |
+| [0273-integer-to-english-words](https://github.com/ashishmohapatra240/LeetCode/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/ashishmohapatra240/LeetCode/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/ashishmohapatra240/LeetCode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/ashishmohapatra240/LeetCode/tree/master/1642-water-bottles) |
