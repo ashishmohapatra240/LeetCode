@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ashishmohapatra240/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ashishmohapatra240/LeetCode/tree/master/0198-house-robber) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashishmohapatra240/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/ashishmohapatra240/LeetCode/tree/master/0455-assign-cookies) |
 | [0747-min-cost-climbing-stairs](https://github.com/ashishmohapatra240/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0948-sort-an-array](https://github.com/ashishmohapatra240/LeetCode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/ashishmohapatra240/LeetCode/tree/master/1196-filling-bookcase-shelves) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashishmohapatra240/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/ashishmohapatra240/LeetCode/tree/master/0455-assign-cookies) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ashishmohapatra240/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ashishmohapatra240/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Binary Search
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashishmohapatra240/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/ashishmohapatra240/LeetCode/tree/master/0455-assign-cookies) |
 | [0726-number-of-atoms](https://github.com/ashishmohapatra240/LeetCode/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/ashishmohapatra240/LeetCode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ashishmohapatra240/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/ashishmohapatra240/LeetCode/tree/master/0455-assign-cookies) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ashishmohapatra240/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/ashishmohapatra240/LeetCode/tree/master/1448-maximum-69-number) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ashishmohapatra240/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
