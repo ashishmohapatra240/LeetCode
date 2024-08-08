@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ashishmohapatra240/LeetCode/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/ashishmohapatra240/LeetCode/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/ashishmohapatra240/LeetCode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/ashishmohapatra240/LeetCode/tree/master/1086-divisor-game) |
 | [1448-maximum-69-number](https://github.com/ashishmohapatra240/LeetCode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/ashishmohapatra240/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ashishmohapatra240/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ashishmohapatra240/LeetCode/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/ashishmohapatra240/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ashishmohapatra240/LeetCode/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/ashishmohapatra240/LeetCode/tree/master/1086-divisor-game) |
 | [1196-filling-bookcase-shelves](https://github.com/ashishmohapatra240/LeetCode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ashishmohapatra240/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/ashishmohapatra240/LeetCode/tree/master/1511-count-number-of-teams) |
@@ -274,4 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ashishmohapatra240/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/ashishmohapatra240/LeetCode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/ashishmohapatra240/LeetCode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
