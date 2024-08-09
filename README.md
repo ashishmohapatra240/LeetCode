@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/ashishmohapatra240/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ashishmohapatra240/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/ashishmohapatra240/LeetCode/tree/master/1803-average-waiting-time) |
+| [1829-maximum-units-on-a-truck](https://github.com/ashishmohapatra240/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ashishmohapatra240/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ashishmohapatra240/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ashishmohapatra240/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ashishmohapatra240/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ashishmohapatra240/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ashishmohapatra240/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1829-maximum-units-on-a-truck](https://github.com/ashishmohapatra240/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ashishmohapatra240/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2502-sort-the-people](https://github.com/ashishmohapatra240/LeetCode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/ashishmohapatra240/LeetCode/tree/master/2846-robot-collisions) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ashishmohapatra240/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ashishmohapatra240/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ashishmohapatra240/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1829-maximum-units-on-a-truck](https://github.com/ashishmohapatra240/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ashishmohapatra240/LeetCode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ashishmohapatra240/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3055-maximum-odd-binary-number](https://github.com/ashishmohapatra240/LeetCode/tree/master/3055-maximum-odd-binary-number) |
